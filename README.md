@@ -1,2 +1,2 @@
-# cycif_maskrcnn
-Mask R-CNN training and test codes for CyCIF images
+# Mask R-CNN for CyCIF images
+This repo consists of training and test scripts of Mask R-CNN for CyCIF images.
